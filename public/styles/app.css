@@ -1,0 +1,19 @@
+#app {
+	margin-top: 50px;
+}
+
+.hoveCommands {
+	position: fixed;
+	z-index: 9999;
+	bottom: 100px;
+}
+
+.hove-list-item {
+	
+}
+
+.messagesContainer {
+	position: absolute;
+  bottom: 10%;
+  width: inherit;
+}
